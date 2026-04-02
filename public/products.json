@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Vintage Leica M3 Camera",
+    "description": "A legendary 35mm rangefinder camera known for its precision engineering and timeless design. Highly sought after by collectors and photography enthusiasts.",
+    "currentBidPrice": 1200,
+    "timeLeft": "2h 15m",
+    "bidsCount": 18,
+    "image": "https://i.ibb.co.com/Leica-M3.jpg"
+  },
+  {
+    "id": 2,
+    "title": "1965 Gibson SG Standard Electric Guitar",
+    "description": "A classic vintage electric guitar with powerful tone and iconic double-cutaway design. Perfect for collectors and professional musicians.",
+    "currentBidPrice": 3500,
+    "timeLeft": "5h 40m",
+    "bidsCount": 25,
+    "image": "https://i.ibb.co.com/Gibson-SG.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Original Apple Macintosh 128K (1984)",
+    "description": "The first mass-market personal computer by Apple, featuring a graphical user interface. A true piece of computing history.",
+    "currentBidPrice": 2800,
+    "timeLeft": "1h 10m",
+    "bidsCount": 30,
+    "image": "https://i.ibb.co.com/Macintosh-128K.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Rolex Submariner 16610",
+    "description": "A luxury diving watch known for its durability and timeless style. A must-have for watch collectors and enthusiasts.",
+    "currentBidPrice": 9000,
+    "timeLeft": "3h 25m",
+    "bidsCount": 12,
+    "image": "https://i.ibb.co.com/Rolex-Submariner.jpg"
+  },
+  {
+    "id": 5,
+    "title": "First Edition 'The Great Gatsby' by F. Scott Fitzgerald",
+    "description": "A rare first edition of the iconic American novel. A valuable collectible for literature lovers and rare book collectors.",
+    "currentBidPrice": 15000,
+    "timeLeft": "6h 05m",
+    "bidsCount": 9,
+    "image": "https://i.ibb.co.com/Great-Gatsby.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Mid-Century Modern Eames Lounge Chair",
+    "description": "An iconic piece of furniture design known for its comfort and elegance. A perfect addition to any modern interior.",
+    "currentBidPrice": 4200,
+    "timeLeft": "4h 50m",
+    "bidsCount": 21,
+    "image": "https://i.ibb.co.com/Eames-Chair.jpg"
+  }
+]
