@@ -20,7 +20,7 @@ const Navbar = () => {
                         <div role="button" className="btn btn-ghost btn-circle">
                             <div className="indicator">
                                 <svg className="h-10 w-10" fill="none" viewBox="0 0 15 15" stroke="currentColor"><IoIosNotificationsOutline /></svg>
-                                <span className="badge badge-sm indicator-item">8</span>
+                                <span className="badge badge-sm indicator-item">0</span>
                             </div>
                         </div>
                         <div role="button" className="btn btn-ghost btn-circle avatar">
